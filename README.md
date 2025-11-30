@@ -13,7 +13,7 @@ A practical real-time waste classification system has been developed to promote 
 CNN, Waste Classification, Smart Dustbin, Automation, IoT, Deep Learning, Sustainable Management, Machine Learning, AI Waste Segregation
 
 ## 👨‍💻 Author
-**S. Kishore**  
+**S. Kishore , A . Liwis Nishanth , V . Saravanan**  
 Department of Artificial Intelligence and Machine Learning  
 Vels Institute of Science, Technology & Advanced Studies (VISTAS), Chennai, India  
-📧 Email: [ks6700822@gmail.com](mailto:ks6700822@gmail.com)
+📧 Email: [ks6700822@gmail.com , liwisnishanth2023@gmail.com](mailto:ks6700822@gmail.com)
